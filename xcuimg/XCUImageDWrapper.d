@@ -1,6 +1,6 @@
 /*  xcuimg.d by Evan / https://github.com/xzripper
 
-    Simple library for loading/decoding images and other things built on stb_image.h
+    Simple library for loading/decoding images and other things based on stb_image.h
     Use XCUImage.d for high-level implementation. */
 
 module xcuimg.XCUImageDWrapper;
